@@ -13,7 +13,7 @@ These models showcase **characters, environments, and props** — highlighting m
 *A realistic 3D basket filled with apples, optimized for rendering and interactive applications.*  
 - Formats: `.blend`  
 - Textures: Metal, Normal, Roughness  
-👉 [View full details](Props/basket_of_apples/README.md)  
+👉 [View full details](Props/a_basket_of_apples/README.md)  
 
 ---
 
