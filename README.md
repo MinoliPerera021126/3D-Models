@@ -4,17 +4,20 @@ A curated collection of my **3D modeling projects**, created using Blender, Maya
 These models showcase **characters, environments, and props** — highlighting my creativity, technical skills, and eye for detail.  
 
 ---
+<br>
 
 ## ✨ Featured Models  
 
 ### 🍎 Basket of Apples  
-[![Basket of Apples Render](images/basket_of_apples_render.png)](Props/Basket_Of_Apples)  
+![Basket of Apples Render](Props/a_basket_of_apples/output/front_view.png)
 *A realistic 3D basket filled with apples, optimized for rendering and interactive applications.*  
-- Formats: `.blend`, `.obj`  
-- Textures: Diffuse, Normal, Roughness  
-👉 [View full details](Props/Basket_Of_Apples/README.md)  
+- Formats: `.blend`  
+- Textures: Metal, Normal, Roughness  
+👉 [View full details](Props/basket_of_apples/README.md)  
 
 ---
+
+<br>
 
 ## 📂 Repository Structure  
 
@@ -23,9 +26,23 @@ These models showcase **characters, environments, and props** — highlighting m
 │
 ├── Props/
 │   └── BasketOfApples/
+│       ├── README.md
 │       ├── basket_of_apples.blend
-│       ├── basket_of_apples.obj
 │       ├── textures/
-│       └── README.md
+│       └── output/
 │
 └── README.md
+
+```
+
+---
+<br>
+
+# 🚀 About Me
+
+I’m Minoli Perera, an IT undergraduate passionate about full-stack development, UI/UX design, and 3D art.
+This repo showcases my journey in 3D modeling for games, animation, and design projects.
+
+🔗 Check out my [GitHub Portfolio](https://github.com/MinoliPerera021126)
+
+💼 Connect with me on [LinkedIn](http://www.linkedin.com/in/hk-minoli-perera)
